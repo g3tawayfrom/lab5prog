@@ -7,3 +7,6 @@ CMakeFiles/untitled.dir/Array.cpp.obj: ../Array.h
 CMakeFiles/untitled.dir/main.cpp.obj: ../Array.h
 CMakeFiles/untitled.dir/main.cpp.obj: ../main.cpp
 
+CMakeFiles/untitled.dir/out_of_range.cpp.obj: ../out_of_range.cpp
+CMakeFiles/untitled.dir/out_of_range.cpp.obj: ../out_of_range.h
+

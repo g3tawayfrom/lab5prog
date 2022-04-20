@@ -14,19 +14,31 @@ namespace lab
     template<class T, int N>
     T Array<T, N>::getE(int i)
     {
+        try {
+            if (this->arr.size() <= i) throw out_of_range("Index is out of range!");
+        }
+        catch (out_of_range &exception) {
+            cout << exception.what() << endl;
+        };
         return arr[i];
     }
 
     template<class T, int N>
     void Array<T, N>::addE(int i, T x)
     {
-        arr[i] = x;
+        try {
+            if (this->arr.size() <= i) throw out_of_range("Index is out of range!");
+            arr[i] = x;
+        }
+        catch (out_of_range &exception) {
+            cout << exception.what() << endl;
+        };
     }
 
     template<class T, int N>
     int Array<T, N>::length()
     {
-        return N;
+        return arr.size();
     }
 
     template

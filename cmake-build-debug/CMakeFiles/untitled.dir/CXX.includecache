@@ -6,6 +6,12 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/student/CLionProjects/untitled/Array.cpp
+iostream
+-
+Array.h
+C:/Users/student/CLionProjects/untitled/Array.h
+
 C:/Users/student/CLionProjects/untitled/Array.h
 iostream
 -
@@ -17,4 +23,6 @@ iostream
 -
 Array.h
 C:/Users/student/CLionProjects/untitled/Array.h
+math.h
+-
 

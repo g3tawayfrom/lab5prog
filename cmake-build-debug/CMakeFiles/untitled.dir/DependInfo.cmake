@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/student/CLionProjects/untitled/Array.cpp" "C:/Users/student/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Array.cpp.obj"
   "C:/Users/student/CLionProjects/untitled/main.cpp" "C:/Users/student/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/main.cpp.obj"
+  "C:/Users/student/CLionProjects/untitled/out_of_range.cpp" "C:/Users/student/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/out_of_range.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
